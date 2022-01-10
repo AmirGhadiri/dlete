@@ -1,0 +1,48 @@
+h2 {
+  color: #3F72AF;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: #112D4E;
+}
+
+body {
+  margin-left: 40px;
+  background-color: #F9F7F7;
+  font-family: sans-serif;
+}
+
+p {
+  color: #112D4E
+  font-family: sans-serif;
+  
+}
+
+ul {
+  color: #112D4E
+  font-family: sans-serif;
+}
+
+ol {
+  color: #112D4E
+  font-family: sans-serif;
+}
+
+table {
+  color: #112D4E
+  font-family: sans-serif;
+}
+
+hr {
+
+  width: 50%;
+  border-top: 5px solid #DBE2EF ;
+
+}
+
+.year {
+  text-align: center;
+  width: 600px;
+}
